@@ -22,10 +22,8 @@ class login extends StatelessWidget {
                       child: Center(
                         child: ClipRRect(
                           child: Image(
-                            image: AssetImage('assets/4.png'),
-height: 200,
+                            image: AssetImage('W.png'),height: 200,
                           ),
-
                         ),
                       ),
                     )),
